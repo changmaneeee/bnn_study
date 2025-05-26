@@ -1,0 +1,12 @@
+We Using Conda program
+
+python = 3.9
+
+#pip install torch torchvision torchaudio tqdm matplotlib
+torch==2.7.0
+torchvision==0.22.0
+torchaudio==2.7.0
+tqdm==4.67.1
+matplotlib==3.9.4
+
+#
