@@ -111,4 +111,4 @@ for epoch in range(50):
     test_acc = correct / len(test_loader.dataset) * 100
     print(f'                └ Test Acc  {test_acc:.2f}%\n')
 
-# 10~20 Epoch 부근에서 Test Acc ≈ 98% 이상 나오면 성공!
+
