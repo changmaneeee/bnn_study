@@ -1,0 +1,1 @@
+this file is BNN by resnet-18. To upgrade acc using KD
