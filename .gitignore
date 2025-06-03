@@ -1,2 +1,2 @@
-binary_mnist/data/cifar-10-python.tar.gz
-binary_mnist/data/cifar-10-python.tar.gz
+binary_mnist/data/*
+KD_bnn_resnet/data/*
