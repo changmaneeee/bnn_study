@@ -13,3 +13,7 @@ Result of Resnet18 to BNN to using cifar-10
 --- Student BNN Model KD Training Finished ---
 Total training time: 55.94 minutes
 Best Test Accuracy achieved by Student BNN with KD: 70.98%
+
+
+long time no see!
+I will restart this project tommrrow!
